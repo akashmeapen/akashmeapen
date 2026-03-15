@@ -1,16 +1,3 @@
-# 💫 Hi 👋, I'm Akash Modayil Eapen
-**A 3rd Year Computer Science Student || Competitive Programmer || DSA Enthusiast
-
-Email Me 👉 ✉️ **akashmeapen@gmail.com** For Collaborations/Projects or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** A Tele-medicine App
-- 🌱 **I’m currently learning:** Machine Learning, Java Full-Stack, DSA and exploring GenAI
-- 👯 **I’m looking to collaborate on:** Any project
-- 🤔 **I’m looking for help with:** Any Project
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** **akashmeapen@gmail.com**
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I'm an Athlete
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akashmeapen/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashmeapen@gmail.com) 
