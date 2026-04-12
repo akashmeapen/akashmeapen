@@ -54,7 +54,7 @@ I've solved **400+ DSA problems** across LeetCode, Codeforces, and CodeChef.
 
 | Platform | Rating |
 |----------|--------|
-| [LeetCode](https://leetcode.com/u/akashmeapen/) | 1447 |
+| [LeetCode](https://leetcode.com/u/skybwoy/) | 1447 |
 | [CodeChef](https://www.codechef.com/users/eager_pearl_59) | 1304 |
 | [Codeforces](https://codeforces.com/profile/sky2005) | 870 |
 
